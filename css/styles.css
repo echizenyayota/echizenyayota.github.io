@@ -35,10 +35,31 @@ header img {
   border-radius: 4px;
 }
 
+.btn:hover {
+  opacity: 0.9;
+}
+
 .features img {
   width: 100%;
 }
 
-.btn:hover {
-  opacity: 0.9;
+.features > h1 {
+  text-align: center;
+  padding: 64px 0;
+  font-weight: normal;
 }
+
+.features .container {
+  margin: 0 32px;
+}
+
+.features p {
+  line-height: 1.8;
+}
+
+.features section {
+  padding-bottom: 64px;
+}
+
+
+

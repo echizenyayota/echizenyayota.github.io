@@ -61,5 +61,15 @@ header img {
   padding-bottom: 64px;
 }
 
+.members {
+  background: #f2f2f3;
+}
+
+.members > h1 {
+  text-align: center;
+  padding: 64px 0;
+  font-weight: normal;
+}
+
 
 

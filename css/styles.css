@@ -113,5 +113,22 @@ footer {
   text-align: center;
 }
 
+@media (min-width: 900px) {
+  header .container {
+    display: flex;
+    width :800;
+    margin: 0 auto;
+  }
+
+  header .info {
+    width: 60%;
+    align-self: center;
+  }
+
+  header .pic {
+    width: 40%;
+  }
+}
+
 
 

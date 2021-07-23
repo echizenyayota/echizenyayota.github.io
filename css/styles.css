@@ -124,6 +124,10 @@ footer a {
     width: calc(50% - 32px);
   }
 
+  .social {
+    padding: 0;
+  }
+
   .social ul {
     width: 800px;
     margin: 0 auto;
@@ -133,6 +137,10 @@ footer a {
 
   .social li {
     width: 250px;
+  }
+
+  .social a {
+    color: #333;
   }
 }
 

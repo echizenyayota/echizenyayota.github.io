@@ -106,5 +106,12 @@ header img {
   margin: 0 auto; 
 }
 
+footer {
+  padding: 64px 0;
+  background : #323135;
+  color: #98969c;
+  text-align: center;
+}
+
 
 

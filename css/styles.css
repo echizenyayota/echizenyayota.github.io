@@ -125,15 +125,15 @@ footer a {
     padding: 0;
   }
 
+  .social h1 {
+    padding: 15px 0 5px;
+  }
+
   .social ul {
     width: 800px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-  }
-
-  .social h1 {
-    padding: 15px 0 5px;
   }
 
   .social li {

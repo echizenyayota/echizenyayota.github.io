@@ -135,6 +135,10 @@ footer a {
     justify-content: space-between;
   }
 
+  .social h1 {
+    padding: 15px 0 5px;
+  }
+
   .social li {
     width: 250px;
   }

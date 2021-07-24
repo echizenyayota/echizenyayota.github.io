@@ -21,8 +21,7 @@ header h1 {
 }
 
 .sp-menu #open {
-  font-size: 32px;
-  line-height: 64px;
+  padding-top: 15px;
   cursor: pointer;
 }
 

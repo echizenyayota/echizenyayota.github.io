@@ -5,6 +5,15 @@ body {
   color: #333;
 }
 
+header {
+  display: flex;
+  padding: 0 16px;
+}
+
+.sp-menu {
+  margin-left: auto;
+}
+
 .features img {
   width: 100%;
 }

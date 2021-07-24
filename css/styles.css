@@ -5,23 +5,6 @@ body {
   color: #333;
 }
 
-header {
-  background: #000080;
-  color: #fff;
-  text-align: center;
-  padding-top: 64px;
-}
-
-header h1,
-header p {
-  margin: 0;
-}
-
-header img {
-  width: 280px;
-  vertical-align: bottom;
-}
-
 .features img {
   width: 100%;
 }

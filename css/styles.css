@@ -99,6 +99,7 @@ header h1 {
 .profie > img {
   width: 160px;
   border-radius: 50%;
+  margin: 0 auto;
 }
 
 .profile > p {
@@ -191,7 +192,6 @@ footer a {
   .features .profile > img,
   .features .profile > p {
     width: 800px;
-    margin: 0 auto;
   }
 
   .features .container {

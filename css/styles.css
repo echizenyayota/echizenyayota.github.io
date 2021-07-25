@@ -85,14 +85,34 @@ header h1 {
   transition-delay: .3s;
 }
 
+.profile {
+  background: #f2f2f3;
+  margin-bottom: 32px;
+}
+
+.profile > h1 {
+  text-align: center;
+  padding: 32px 0;
+  font-weight: normal;
+}
+
+.profie > img {
+  width: 160px;
+  border-radius: 50%;
+}
+
+.profile > p {
+  text-align: center;
+  padding: 32px;
+}
+
 .features img {
   width: 100%;
 }
 
-.features > h1 {
+.features > p {
   text-align: center;
-  padding: 64px 0;
-  font-weight: normal;
+  padding: 32px 0;
 }
 
 .features .container {

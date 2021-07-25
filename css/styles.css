@@ -187,6 +187,13 @@ footer a {
     width: 40%;
   }
 
+  .features .profile > h1, 
+  .features .profile > img,
+  .features .profile > p {
+    width: 800px;
+    margin: 0 auto;
+  }
+
   .features .container {
     width: 800px;
     margin: 0 auto;

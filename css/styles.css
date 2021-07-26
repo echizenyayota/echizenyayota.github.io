@@ -103,6 +103,10 @@ header h1 {
   margin: 0 auto;
 }
 
+.contain {
+  object-fit: contain;
+}
+
 .profile > p {
   text-align: center;
   padding: 32px;

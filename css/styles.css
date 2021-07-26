@@ -98,8 +98,8 @@ header h1 {
 }
 
 .profile > img {
-  width: 128px;
-  height: 128px;
+  width: 64px;
+  height: 64px;
   object-fit: contain;
   border-radius: 50%;
   margin: 0 auto;
@@ -199,8 +199,8 @@ footer a {
   }
 
   .features .profile > img {
-    width: 128px;
-    height: 128px;
+    width: 64px;
+    height: 64px;
   }
 
   .features .container {

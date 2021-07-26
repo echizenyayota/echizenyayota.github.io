@@ -110,14 +110,14 @@ img#mypicture {
   height: 64px;
   object-fit: contain;
   border-radius: 50%;
-  /* text-align: center;
-  margin: 0 auto; */
-}
-
-.profile > #mypicture {
   text-align: center;
   margin: 0 auto;
 }
+
+/* .profile > #mypicture {
+  text-align: center;
+  margin: 0 auto;
+} */
 
 .profile > p {
   text-align: center;

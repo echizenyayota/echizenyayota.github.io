@@ -98,14 +98,13 @@ header h1 {
 }
 
 .profile > img {
-  width: 64px;
+  width: 128px;
+  height: 128px;
+  object-fit: contain;
   border-radius: 50%;
   margin: 0 auto;
 }
 
-.contain {
-  object-fit: contain;
-}
 
 .profile > p {
   text-align: center;
@@ -194,10 +193,14 @@ footer a {
     width: 40%;
   }
 
-  .features .profile > h1, 
-  .features .profile > img,
+  .features .profile > h1,
   .features .profile > p {
     width: 800px;
+  }
+
+  .features .profile > img {
+    width: 128px;
+    height: 128px;
   }
 
   .features .container {

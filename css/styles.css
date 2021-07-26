@@ -97,14 +97,21 @@ header h1 {
   margin: 0 auto;
 }
 
-.profile > img {
+/* .profile > img {
   width: 64px;
   height: 64px;
   object-fit: contain;
   border-radius: 50%;
   margin: 0 auto;
-}
+} */
 
+img#mypicture {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 50%;
+  text-align: center;
+}
 
 .profile > p {
   text-align: center;
@@ -198,10 +205,10 @@ footer a {
     width: 800px;
   }
 
-  .features .profile > img {
+  /* .features .profile > img {
     width: 64px;
     height: 64px;
-  }
+  } */
 
   .features .container {
     width: 800px;

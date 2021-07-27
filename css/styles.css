@@ -105,6 +105,7 @@ header h1 {
 }
 
 .profile p {
+  width: 800px;
   padding: 32px;
   margin: 0 auto;
 }

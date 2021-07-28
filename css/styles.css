@@ -105,7 +105,6 @@ header h1 {
 }
 
 .profile p {
-  width: 800px;
   padding: 32px;
   margin: 0 auto;
 }
@@ -189,6 +188,11 @@ footer a {
 
   header .pic {
     width: 40%;
+  }
+
+  .profile p {
+    padding: 32px 256px 32px;
+    margin: 0 auto;
   }
 
   .features .profile > h1,
